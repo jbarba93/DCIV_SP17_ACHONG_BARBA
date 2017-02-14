@@ -3,8 +3,7 @@ using System.Collections;
 
 public class RED : MonoBehaviour
 {
-
-
+    
     Renderer r;
 
     // Use this for initialization
