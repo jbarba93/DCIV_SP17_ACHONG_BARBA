@@ -79,6 +79,8 @@
     <Compile Include="Assets\Scripts\DayCycle.cs" />
     <Compile Include="Assets\Scripts\LightOnOff.cs" />
     <Compile Include="Assets\Scripts\RED.cs" />
+    <Compile Include="Assets\Scripts\SpinnyLeft1.cs" />
+    <Compile Include="Assets\Scripts\SpinnyRight1.cs" />
     <Compile Include="Assets\Scripts\hand.cs" />
     <Compile Include="Assets\Scripts\moon.cs" />
     <Compile Include="Assets\Scripts\teal.cs" />
