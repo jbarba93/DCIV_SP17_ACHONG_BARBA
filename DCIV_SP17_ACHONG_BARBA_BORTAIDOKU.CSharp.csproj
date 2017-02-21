@@ -77,6 +77,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BLUE.cs" />
     <Compile Include="Assets\Scripts\DayCycle.cs" />
+    <Compile Include="Assets\Scripts\EasingFunction.cs" />
+    <Compile Include="Assets\Scripts\Easy.cs" />
     <Compile Include="Assets\Scripts\LightOnOff.cs" />
     <Compile Include="Assets\Scripts\RED.cs" />
     <Compile Include="Assets\Scripts\SpinnyLeft1.cs" />
