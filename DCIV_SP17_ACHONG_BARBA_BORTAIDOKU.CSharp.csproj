@@ -79,10 +79,14 @@
     <Compile Include="Assets\Scripts\DayCycle.cs" />
     <Compile Include="Assets\Scripts\EasingFunction.cs" />
     <Compile Include="Assets\Scripts\Easy.cs" />
+    <Compile Include="Assets\Scripts\GateHandlerLeft.cs" />
+    <Compile Include="Assets\Scripts\GateHandlerRight.cs" />
     <Compile Include="Assets\Scripts\LightOnOff.cs" />
     <Compile Include="Assets\Scripts\RED.cs" />
+    <Compile Include="Assets\Scripts\SlideLeft.cs" />
     <Compile Include="Assets\Scripts\SpinnyLeft1.cs" />
     <Compile Include="Assets\Scripts\SpinnyRight1.cs" />
+    <Compile Include="Assets\Scripts\door trigger.cs" />
     <Compile Include="Assets\Scripts\hand.cs" />
     <Compile Include="Assets\Scripts\moon.cs" />
     <Compile Include="Assets\Scripts\teal.cs" />
