@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GateHandlerRight : MonoBehaviour
-{
+public class GateHandlerRight : MonoBehaviour {
 
     private Animator _animator = null;
 
